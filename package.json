@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@angular/http": "^7.2.16",
     "@bugsnag/js": "^5.0.0",
     "uglify-js": "1.0.6"
   }
