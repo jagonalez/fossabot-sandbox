@@ -14,8 +14,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Text.Json" Version="4.5.4" />
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.0.8" />
+    <PackageReference Include="System.Text.Json">
+      <Version>4.5.4</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging">
+      <Version>2.0.8</Version>
+    </PackageReference>
   </ItemGroup>
 
   <ItemGroup>
