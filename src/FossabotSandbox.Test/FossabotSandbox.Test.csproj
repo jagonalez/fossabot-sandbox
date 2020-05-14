@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>FossabotSandbox.Core</AssemblyName>
-    <PackageId>FossabotSandbox.Core</PackageId>
+    <AssemblyName>FossabotSandbox.Test</AssemblyName>
+    <PackageId>FossabotSandbox.Test</PackageId>
     <Version>1.0.0</Version>
     <Description>Simple, lightweight, sandbox</Description>
     <PackageProjectUrl>https://github.com/fossas/fossabot-sandbox</PackageProjectUrl>
@@ -14,8 +14,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Text.Json" Version="4.6.0" />
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.0" />
+    <PackageReference Include="System.Text.Json" Version="4.5.4" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.0.8" />
   </ItemGroup>
 
   <ItemGroup>
