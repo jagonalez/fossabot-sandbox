@@ -6,7 +6,7 @@
     <version>1.0.0</version>
     <dependencies>
       <dependency id="System.Text.Json" version="4.5.4" />
-      <dependency id="Microsoft.Extensions.Logging" version="2.0.8" />
+      <dependency id="Microsoft.Extensions.Logging" version="2.1.0" />
     </dependencies>
   </metadata>
 </package>
