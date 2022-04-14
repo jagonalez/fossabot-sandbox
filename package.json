@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@angular/http": "0.0.0-7",
-    "@bugsnag/js": "^5.0.0",
+    "@bugsnag/js": "5.2.0",
     "emotion": "^11.0.0",
     "uglify-js": "2.4.24"
   }
